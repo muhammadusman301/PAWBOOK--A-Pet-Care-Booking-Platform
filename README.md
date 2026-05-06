@@ -148,7 +148,7 @@ Pet-Care-Booking-Platform/
 
 ## 📦 Installation Guide (Step-by-Step)
 
-### Step 1: Clone the Repository
+### Step 1: Download Repo
 
 Download the project then unzip it and then go to zip file (Pet-Care-Booking-Platform.zip) copy and paste on 
 another location and unzip it and open cmd on this folder dir
